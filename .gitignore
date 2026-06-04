@@ -1,0 +1,15 @@
+# Dossiers d'environnements virtuels (Python, etc.)
+# Écrire le nom avec un / à la fin permet de l'ignorer dans TOUS les sous-dossiers
+test-copilot/.venv/
+test-copilot/venv/
+
+test-cursor/.venv/
+test-cursor/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Pytest cache directory
+.pytest_cache/
